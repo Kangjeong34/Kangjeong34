@@ -1,4 +1,4 @@
-### Hi there 👋
+### 반갑습니다 오늘도 즐거운 날입니다 👋
 
 <!--
 **Kangjeong34/Kangjeong34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
